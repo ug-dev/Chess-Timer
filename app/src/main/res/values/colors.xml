@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3b3b3b</color>
+    <color name="colorPrimaryDark">#3b3b3b</color>
+    <color name="colorAccent">#3b3b3b</color>
+
+    <color name="white">#fff</color>
+    <color name="black">#000</color>
+    <color name="second_text_color">#757575</color>
+    <color name="white_2">#FBFBFB</color>
+
+
+    <!-- Theme 1 -->
+    <color name="top_image">#F6907C</color>
+    <color name="bottom_image">#2E3A51</color>
+    <color name="text_color">#E6E6E6</color>
+
+    <!-- Theme 2 -->
+    <color name="top_image_2">#3B3B3B</color>
+    <color name="bottom_image_2">#FFFEF8</color>
+
+    <!-- Theme 3 -->
+    <color name="top_image_3">#FF5C55</color>
+    <color name="bottom_image_3">#10D0CF</color>
+    <color name="top_text_color_3">#F8F8F8</color>
+    <color name="bottom_text_color_3">#4F4F4F</color>
+
+    <!-- Theme 4 -->
+    <color name="top_image_4">#FFDB1F</color>
+    <color name="bottom_image_4">#323232</color>
+
+    <!-- Theme 5 -->
+    <color name="top_image_5">#CA2B3A</color>
+    <color name="bottom_image_5">#202329</color>
+    <color name="text_color_5">#F3E8D3</color>
+
+    <!-- Theme 6 -->
+    <color name="top_image_6">#3CC194</color>
+    <color name="bottom_image_6">#373443</color>
+    <color name="text_color_6">#F3E8D3</color>
+
+    <color name="black_overlay">#66000000</color>
+</resources>

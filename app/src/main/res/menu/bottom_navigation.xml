@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item
+        android:id="@+id/nav_audio"
+        android:icon="@drawable/ic_audio"
+        android:title="@string/audio" />
+
+    <item
+        android:id="@+id/nav_game_mode"
+        android:icon="@drawable/ic_game_mode"
+        android:title="@string/game_mode" />
+
+    <item
+        android:id="@+id/nav_info"
+        android:icon="@drawable/ic_info"
+        android:title="@string/info" />
+</menu>
